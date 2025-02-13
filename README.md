@@ -1,1 +1,1 @@
-A new blackbox and hyperparameter optimization library just dropped. Hold on until I finalize it.
+i know of a better way to do it
