@@ -1,0 +1,1 @@
+from .pygmo_benchmarks import *
